@@ -1,4 +1,4 @@
-# My Portfolio Website UI-Ux Design
+# My Portfolio Website Ui-Ux Design
 
 Welcome to my portfolio website UI design repository! This project showcases my creativity and design skills, providing a glimpse into my work and projects.
 
