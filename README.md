@@ -26,7 +26,7 @@ My Portfolio Website UI Design is a reflection of my creativity and expertise in
 
 ## Screenshots
 
-Include screenshots showcasing different sections of the portfolio website, such as the homepage, project showcase, about me page, and contact form.
+![Portfolio Website](https://github.com/Jeevannaik66/My-Portfolio-Website-Ui-Ux-Design/assets/117274229/290bd071-0dc1-4dc4-9078-7b8e5ee6b1c5)
 
 ## Usage
 
@@ -50,6 +50,5 @@ Contributions to enhance the portfolio website design or provide feedback are we
 
 ## License
 
-This portfolio website UI design is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This portfolio website UI design is licensed under the MIT License.
 Feel free to clone or fork this repository and customize the design to suit your own portfolio needs. Thank you for visiting!
